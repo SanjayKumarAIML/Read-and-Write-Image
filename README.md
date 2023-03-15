@@ -63,34 +63,32 @@ cv2.destroyAllWindows()
 ### i) Read and display the image
 
 <br>
-![read_pic](https://user-images.githubusercontent.com/93427246/224912715-a4bde0bf-810f-4381-a0d1-73c31c8a0745.png)
-
+<img height = "350" src="https://user-images.githubusercontent.com/93427246/224912715-a4bde0bf-810f-4381-a0d1-73c31c8a0745.png">
 <br>
 
 
 ### ii)Write the image
 
 <br>
-![write_pic](https://user-images.githubusercontent.com/93427246/224912824-b835017c-7fd8-4df2-a8f6-5aaab411a4a4.png)
+<img height = "350" src="https://user-images.githubusercontent.com/93427246/224912824-b835017c-7fd8-4df2-a8f6-5aaab411a4a4.png">
 
 <br>
 
 ### iii)Shape of the Image
 
 <br>
-![image](https://user-images.githubusercontent.com/93427246/224912942-d8d67a54-75d9-4546-975b-36bc6bae11f0.png)
+<img height = "250" src="https://user-images.githubusercontent.com/93427246/224912942-d8d67a54-75d9-4546-975b-36bc6bae11f0.png">
 
 <br>
 
 ### iv)Access rows and columns
 <br>
-
-![zorooo](https://user-images.githubusercontent.com/93427246/224913008-322c2baf-2b97-45de-b8ca-49d4c2d00833.png)
+<img height = "350" src="https://user-images.githubusercontent.com/93427246/224913008-322c2baf-2b97-45de-b8ca-49d4c2d00833.png">
 <br>
 
 ### v)Cut and paste portion of image
 <br>
-![newzoro](https://user-images.githubusercontent.com/93427246/224913070-e416ddfb-31e0-46ac-a0a9-93e322199a66.png)
+<img height = "350" src="https://user-images.githubusercontent.com/93427246/224913070-e416ddfb-31e0-46ac-a0a9-93e322199a66.png">
 
 <br>
 
